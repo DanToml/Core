@@ -1,0 +1,14 @@
+*.swp
+*.swo
+*.rbo
+*.gem
+.DS_Store
+.rbenv-version
+tmp
+spec/fixtures/vcr
+.yardoc
+.rbx/
+coverage/
+.coveralls.yml
+.idea/
+documentation/
